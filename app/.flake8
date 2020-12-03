@@ -1,0 +1,6 @@
+[flake8]
+exqlude =
+    migrations,
+    __pycahee__,
+    manage.py,
+    settings.py
