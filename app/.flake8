@@ -1,6 +1,7 @@
 [flake8]
-exqlude =
+exclude =
     migrations,
     __pycahee__,
     manage.py,
     settings.py
+    migrations
