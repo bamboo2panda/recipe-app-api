@@ -2,7 +2,6 @@
 exclude =
     migrations,
     __pycache__,
-    manage.py,
-    settings.py,
     venv,
+    settings.py,
 max-complexity = 10
